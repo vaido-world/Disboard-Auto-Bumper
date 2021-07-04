@@ -1,1 +1,1 @@
-worker: python bumper.py
+worker: bumper.py
