@@ -47,6 +47,8 @@ Local development setup.
 Sidenote Upgrade `discord.py` to the latest version `pip install discord.py --upgrade`  
 Sidenote Install latest `discord.py` version `pip install discord.py`  
 
+discord fork with self bot `pip install -U discord.py-self`
+
 
 # Auto Disboard Bumper
 
