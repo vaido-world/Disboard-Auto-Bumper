@@ -39,9 +39,9 @@ Deploy the Discord Bot based on your Discord UserToken and Channel ID.
 Local development setup.  
 1. download the source files. 
 2. extract .zip of source files.
-3. pip install discord.py==1.7.3
-4. SET "USER_TOKEN=NZYzNzRzODU3NzY2NTIzOTA3.FjUkCy.e6AaoLjzwE5-IJqa_WAY6uIKnYGgVh6sKjwcII"
-5. SET "DISCORD_SERVER_CHANNEL_ID=1028015586183237683"
+3. `pip install discord.py==1.7.3`
+4. `SET "USER_TOKEN=NZYzNzRzODU3NzY2NTIzOTA3.FjUkCy.e6AaoLjzwE5-IJqa_WAY6uIKnYGgVh6sKjwcII"`
+5. `SET "DISCORD_SERVER_CHANNEL_ID=1028015586183237683"`
 6. `python 🌌bumper.py`
 
 
