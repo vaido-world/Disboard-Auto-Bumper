@@ -41,7 +41,7 @@ async def on_ready():
     # Some Loop Testing
     while True:
         await channel.send("found channel")
-        await channel.send("!d bump")
+        await channel.send("/bump")
         time.sleep(8125) # 8125 seconds == 2 hours
         
         
@@ -58,7 +58,7 @@ async def on_ready():
 @botReceive.command()
 async def bla(ctx): # https://discordpy.readthedocs.io/en/stable/ext/commands/api.html#discord.ext.commands.Context
     while True:
-      await ctx.send("!d bump")
+      await ctx.send("/bump")
       await ctx.send("Username: " + str(ctx.author))
       await ctx.send("Channel ID: " + str(ctx.channel.id))
       print("Auto Bumper Channel ID: " + str(ctx.channel.id))
