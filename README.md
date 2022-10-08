@@ -36,6 +36,11 @@ Deploy the Discord Bot based on your Discord UserToken and Channel ID.
   
 </details>
 
+Local development setup.  
+1. download the source files. 
+2. extract .zip of source files.
+3. `pip install discord`  
+4. `python 🌌bumper.py`
 
 
 
