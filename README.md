@@ -44,8 +44,8 @@ Local development setup.
 5. `SET "DISCORD_SERVER_CHANNEL_ID=1028015586183237683"`
 6. `python 🌌bumper.py`
 
-Sidenote Upgrade `discord.py` to the latest version `pip install discord.py --upgrade`
-Sidenote Install latest `discord.py` version `pip install discord.py`
+Sidenote Upgrade `discord.py` to the latest version `pip install discord.py --upgrade`  
+Sidenote Install latest `discord.py` version `pip install discord.py`  
 
 
 # Auto Disboard Bumper
