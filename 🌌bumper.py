@@ -42,6 +42,7 @@ async def on_ready():
     while True:
         await channel.send("found channel")
         await channel.send("/bump ")
+        await channel.invoke(client.get_command('coin'))
         time.sleep(8125) # 8125 seconds == 2 hours
         
         
